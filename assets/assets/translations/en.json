@@ -1,0 +1,16 @@
+{
+    "appName": "opalschool",
+    "home": {
+        "title": "Opalschool",
+        "body": "Sample text on the home page",
+        "signIn": "Sign in",
+        "signUp": "Sign up"
+    },
+    "mainPage": "Main Page",
+    "settings": "Settings",
+    "exit": "Log out",
+    "about": {
+        "title": "About Us",
+        "body": "The page \"About us\" or \"About the company\" is one of the most frequently visited tabs of each company page. creating a good text about the company is extremely important."
+    }
+}

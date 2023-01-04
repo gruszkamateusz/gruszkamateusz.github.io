@@ -1,0 +1,16 @@
+{
+    "appName": "opalschool",
+    "home": {
+        "title": "Opalschool",
+        "body": "Przykladowy tekst znajdujacy sie na stronie glownej",
+        "signIn": "Zaloguj sie",
+        "signUp": "Zarejestruj sie"
+    },
+    "mainPage": "Strona główna",
+    "settings": "Ustawienia",
+    "exit": "Wyloguj się",
+    "about": {
+        "title" : "O nas",
+        "body": "Strona „O nas” lub \"O firmie\" jest jedną z najczęściej odwiedzanych zakładek każdej strony firmowej. Bardzo często to właśnie na jej podstawie potencjalny klient dokonuje wyboru odnośnie skorzystania, bądź nie, z naszych usług. Dlatego też stworzenie dobrego tekstu o firmie jest niezwykle istotne."
+    }
+}
